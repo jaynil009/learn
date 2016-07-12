@@ -1,0 +1,13 @@
+<html>
+<head>
+<title> git hub html tutorial </title>
+</head>
+<body>
+<h1 align="center"> Registration Form </h1>
+<form method="post" action="">
+First Name<input type="text" name="txtName">
+Middle Name<input type="text" name="txtSpouse">
+Last Name<input type="text" name="txtLastname">
+<form>
+</body>
+</html>
